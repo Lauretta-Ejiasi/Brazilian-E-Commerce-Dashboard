@@ -1,5 +1,4 @@
 # Brazilian-E-Commerce-Dashboard
-Brazilian E-Commerce Dashboard
 The journey began with meticulous data preparation and analysis techniques, including:
 Table Modeling to combine information from different tables
 Text Analysis to extract customer reviews and classify them into categories
